@@ -1,0 +1,7 @@
+{
+  "name": "Expoionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
