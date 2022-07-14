@@ -149,7 +149,11 @@
     "schematicCollections": [
       "@ionic/angular-toolkit"
     ],
+<<<<<<< HEAD
     "analytics": "fa96adcd-1159-453d-bce3-3e18d020cbb8"
+=======
+    "analytics": "5f45129a-7513-4a84-bc2e-6484c5991a46"
+>>>>>>> 5b6b6db8bdb4f33b5f8d857de4c488e82eed08f5
   },
   "schematics": {
     "@ionic/angular-toolkit:component": {
